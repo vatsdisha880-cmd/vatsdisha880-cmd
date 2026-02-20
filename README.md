@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 .banner {
     width: 100%;
     height: 500px; /* change height here */
@@ -10,7 +10,7 @@
     height: 100%;
     object-fit: cover;
 }
-</style>
+</style> -->
 
 <div class="banner">
     <img src="https://drive.google.com/uc?export=view&id=1_WJe75Ny9rQBrazLltYQ7mJqEfO0NmsA" alt="Banner Image">
